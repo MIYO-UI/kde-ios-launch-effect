@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "your.email@example.com",
+                "Name": "Your Name"
+            }
+        ],
+        "Category": "Appearance",
+        "Description": "Configuration for iOS-Style Launch Animation",
+        "Icon": "preferences-system-windows-effect-ioslaunch",
+        "Id": "ioslauncheffect",
+        "License": "GPL",
+        "Name": "iOS-Style Launch Animation",
+        "ServiceTypes": [
+            "KCModule"
+        ]
+    },
+    "X-KDE-Library": "kwin_ioslauncheffect_config",
+    "X-KDE-ParentComponents": [
+        "kwin_ioslauncheffect"
+    ]
+}

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KWin/Effect
+X-KDE-PluginInfo-Author=Your Name
+X-KDE-PluginInfo-Email=your.email@example.com
+X-KDE-PluginInfo-Name=ioslauncheffect
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Category=Appearance
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-Library=kwin_ioslauncheffect
+X-KDE-Ordering=60
+X-KWin-Exclusive-Category=appearance
+Name=iOS-Style Launch Animation
+Name[pl]=Animacja uruchamiania w stylu iOS
+Comment=Animate windows to grow from the click point when they are opened
+Comment[pl]=Animuje okna, aby powiększały się od punktu kliknięcia podczas ich otwierania

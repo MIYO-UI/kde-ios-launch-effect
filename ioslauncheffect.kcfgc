@@ -1,0 +1,5 @@
+File=ioslauncheffect.kcfg
+ClassName=IOSLaunchEffectConfig
+NameSpace=KWin
+Singleton=true
+Mutators=true

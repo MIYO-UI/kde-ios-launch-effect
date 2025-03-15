@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "your.email@example.com",
+                "Name": "Your Name"
+            }
+        ],
+        "Category": "Appearance",
+        "Description": "Animate window opening from click point in iOS style",
+        "EnabledByDefault": true,
+        "Id": "ioslauncheffect",
+        "License": "GPL",
+        "Name": "iOS-Style Launch Animation",
+        "ServiceTypes": [
+            "KWin/Effect"
+        ],
+        "Version": "1.0"
+    },
+    "X-KDE-Ordering": 60,
+    "X-KDE-PluginKeyword": "ioslauncheffect",
+    "X-KWin-Config-TranslationDomain": "kwin_effects",
+    "X-KWin-Exclusive-Category": "appearance",
+    "X-Plasma-API": "javascript"
+}
